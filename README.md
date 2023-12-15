@@ -78,8 +78,7 @@ Whether you're looking to build a web and mobile applications from scratch, opti
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devfront216&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=devfront216&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://visitcount.itsvg.in/api?id=devfront216&label=Profile%20Views&icon=2&pretty=true" />
+  <img src="https://streak-stats.demolab.com?user=devfront216&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </a>
 </div>
 
