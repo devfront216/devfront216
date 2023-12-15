@@ -1,9 +1,9 @@
 # 💫 About Me:
-• As a software engineer with 13 years of experience, the values I can bring to the team include good software skills and team culture. I continuously seek to improve the performance of project and code quality with insatiable curiosity.<br>
-• As a hungry and motivated person, I am always looking forward to the end result of a task without necessarily being concerned about the process I have to undergo to get the task done. It’s important that I can thrive in the team environment and can also work independently embracing the teamwork with a positive mindset.<br>
-• As a customer-focused engineer, I am always trying to make sure that we are solving the big valuable problems and understand the needs of each and every potential projects.<br>
-• As a company member, I always think strategically about the process, considering the long-term technical solutions and balancing technical trade-offs with the business needs.<br>
-•As a problem-solver, I always identify and analyze technical problems, and developing effective solutions.<br>
+David is a highly motivated and resourceful IT leader and engineer with 13 years of high-impact experience in software and architecture design and leading development teams. He is a strong communicator, recognizing signs of failure and taking appropriate action to remedy it. David can seamlessly transition between various roles, from writing software to managing large-scale initiatives without friction, while adopting a strategic perspective based on your needs.<br>
+
+He has excellent communication skills, significant customer-facing experience, and top-notch programming, debugging, and technical skills. With hands-on leadership and a passion for creating great products and teams, he brings 13 years of experience building software solutions for consumer electronics, medical, scientific, and enterprise communities.<br>
+
+Whether you're looking to build a web and mobile applications from scratch, optimize an existing system, or troubleshoot technical issues, my extensive experience positions me as a reliable and skilled full-stack developer ready to bring your vision to life.<br>
 
 
 # 💻 Tech Stack:
